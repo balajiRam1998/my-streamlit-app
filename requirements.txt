@@ -28,3 +28,7 @@ streamlit
 pandas
 numpy
 matplotlib
+streamlit
+plotly
+pandas
+numpy
